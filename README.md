@@ -25,7 +25,6 @@ The patch antenna and FSS-related structure have been modelled and simulated. AM
 
 - `docs/` — Technical design and simulation workflow
 - `results/` — Simulation results and supporting figures
-- `data/` — Data documentation
 - `tests/` — Engineering test plan
 - `LICENSE` — Project licensing information
 

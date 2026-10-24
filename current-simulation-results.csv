@@ -1,0 +1,9 @@
+result_set,parameter,value,unit,frequency_GHz,status,interpretation_notes
+Patch antenna S-parameter plot,resonant_frequency,2.3972,GHz,2.3972,reported_from_current_CST_plot,Confirm using numerical CST export
+Patch antenna S-parameter plot,minimum_S11,-47.323,dB,2.3972,reported_from_current_CST_plot,Shown at patch resonance
+CST parameter screenshot,InL,7.2,mm,,parameter_visible_in_CST,Confirm association with the plotted patch run
+FSS-related curve,curve_minimum,-32.089,dB,2.3899,reported_from_current_CST_plot,"Curve label SZmin(1),Zmax(1); confirm parameter definition"
+Far-field result,radiation_efficiency,-4.373,dB,2.4,reported_from_current_CST_plot,Exact model/run association to be recorded
+Far-field result,total_efficiency,-4.391,dB,2.4,reported_from_current_CST_plot,Exact model/run association to be recorded
+Far-field result,directivity,5.733,dBi,2.4,reported_from_current_CST_plot,Exact model/run association to be recorded
+AMC configuration,simulation_results,,,,not_yet_completed,No AMC results available yet
